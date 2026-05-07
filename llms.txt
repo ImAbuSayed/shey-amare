@@ -10,17 +10,20 @@
 |-------|---------|
 | Title | Shey Amare |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 07, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/shey-amare/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get a Licensing Quote for Shey Amare](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [License this song: Shey Amare](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> অচেনা এই রাতের মায়ায়, এসো বুকের খুব কাছে
+> তোমার ওই নেশালো চোখে, হাজার স্বপ্ন নাচে
+> আমার এই তৃষ্ণার্ত ঠোঁট, খোঁজে তোমার ছোঁয়া
+> এই তো শুরু প্রেমের খেলা, উড়ে যাক সব ধোঁয়া
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
