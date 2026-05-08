@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shey Amare
+
+This log tracks the cryptographic history and versioning for the song **Shey Amare** (shey-amare).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T15:57:05.953135 | `v1` | `ad46b88fa00302188114199ae406456406a6781c898d5f927ad97b56d615bb79` | `e753c0c92bb7d5ebff976d1abae66c8b5707d5b1d6f5a3cfa33323f548f1bd29` | `2026-05-08_shey-amare-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
